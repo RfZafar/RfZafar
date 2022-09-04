@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RfZafar
 - 👀 I’m interested in ...Machine Learnig/Deep Learning
 - 🌱 I’m currently learning ...Deep Learning
-- 💞️ I’m looking to collaborate on ...Semantic Segmentation using Deep Learninf
+- 💞️ I’m looking to collaborate on ... Deep Learning, Machine Learning & Computer vision
 - 📫 How to reach me ...arifzafar966@gmail.com
 
 <!---
